@@ -12,7 +12,13 @@
 <?php 
 echo "ALL TENATS ARE REQUIRED TO PAY RENT BY END MONTH";
 echo "<br/>";
-echo "WATER BILLS TO BE PAID VIA MPESA"
+echo "WATER BILLS TO BE PAID VIA MPESA";
+echo "<br/>"
+
+?>
+<?php 
+$contact = "Call 0700000000 for quick assistance";
+echo $contact;
 
 ?>
 
