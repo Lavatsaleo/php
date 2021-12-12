@@ -9,5 +9,12 @@
 <body>
     <h1 style="color:red;">WELCOME TO LAVATSA ESTATES</h1>
     <P>Welcome to Lavatsa Estate official tenant portal</P>
+<?php 
+echo "ALL TENATS ARE REQUIRED TO PAY RENT BY END MONTH";
+echo "<br/>";
+echo "WATER BILLS TO BE PAID VIA MPESA"
+
+?>
+
 </body>
 </html>
